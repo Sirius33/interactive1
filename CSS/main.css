@@ -2,7 +2,7 @@
 /* reset styles */
 
 * {
-  margin: 0px;
+  margin: 40px;
   padding: 0px;
 }
 
@@ -10,4 +10,10 @@
 
 body {
   color: green;
+  font: generic-family;
+}
+
+h1 {
+	color: green;
+	text-align: center;
 }
