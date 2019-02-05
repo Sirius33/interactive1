@@ -10,12 +10,12 @@
 
 body {
   color: brown;
-  font: generic-family;
-  background: beige; <img src="tree.jpg" alt="tree">
+  font-family:generic-family;
+  background: beige;
 }
 
 h1 {
 	color: brown;
-	font: krungthep; san-serifs;
+	font-family:krungthep; san-serifs;
 	text-align: left;
 }
