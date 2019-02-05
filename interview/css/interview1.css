@@ -4,4 +4,20 @@ body {
   color: white;
   font-size: 18px;
   -webkit-font-smoothing: antialiased;
+  font-family: Candara, sans-serif;
+
+#toc {
+  position: fixed;
+  top: 1em;
+  left: 1em;
+  background: #0073e6;
+  color: black;
+  padding: 1em;
+  font-size: 0.7em;
+ }
+
+#container {
+  max-width: 650px;
+  margin: 0 auto;  
+}
 }
