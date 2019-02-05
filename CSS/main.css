@@ -9,9 +9,12 @@
 /* begin styles */
 
 body {
-  color: brown;
+  color: rgb(51, 51, 0); hsl(60, 100%, 10%)
   font-family:krungthep; san-serifs;
   background: rgb(173, 173, 133); hsl(60, 20%, 60%)
+  #grad {
+  background-image: linear-gradient(to right, rgb(184,184,148), rgb(153,153,102);
+}
   background-image: url(tree.jpg);
   background-position:right;
   background-repeat: no-repeat;
