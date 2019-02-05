@@ -11,7 +11,7 @@
 body {
   color: brown;
   font-family:krungthep; san-serifs;
-  background: beige;
+  background: rgb(153, 153, 102); hsl(60, 20%, 50%)
 }
 
 h1 {
