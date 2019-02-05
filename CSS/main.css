@@ -10,12 +10,12 @@
 
 body {
   color: brown;
-  font-family:generic-family;
+  font-family:krungthep; san-serifs;
   background: beige;
 }
 
 h1 {
-	color: brown;
+	color: dark brown;
 	font-family:krungthep; san-serifs;
 	text-align: left;
 }
