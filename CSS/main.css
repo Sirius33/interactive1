@@ -10,9 +10,7 @@
 
 body {
   color: rgb(51, 51, 0); hsl(60, 100%, 10%)
-  {
   font-family: krungthep, sans-serif;
-}
   background:rgb(173, 173, 133); hsl(60, 20%, 60%)
   
 }
@@ -20,8 +18,6 @@ body {
 
 h1 {
 	color: rgb(51, 51, 0); hsl(60, 100%, 10%)
-	{
-  font-family: krungthep, sans-serif;
-}
+    font-family: krungthep, sans-serif;
 	text-align: left;
 }
