@@ -13,7 +13,7 @@ body {
   font-family:krungthep; san-serifs;
   background: rgb(173, 173, 133); hsl(60, 20%, 60%)
   #grad {
-  background-image: linear-gradient(to right, rgb(184,184,148), rgb(153,153,102);
+  background-image: linear-gradient(to right, rgb(194,194,163) hsl(60, 20%, 70%), rgb(153,153,102) hsl(60,20%,50%);
 }
   background-image: url(tree.jpg);
   background-position:right;
