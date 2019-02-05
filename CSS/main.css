@@ -11,10 +11,10 @@
 body {
   color: brown;
   font: generic-family;
-  background: beige;
+  background: beige; <img src="tree.jpg" alt="tree"> image-rendering: right;
 }
 
 h1 {
-	color: green;
-	text-align: center;
+	color: brown;
+	text-align: left;
 }
