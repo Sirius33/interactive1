@@ -21,3 +21,11 @@ h1 {
     font-family: Krungthep, sans-serif;
 	text-align: left;
 }
+
+a, a:visited {
+  color: #4d5a53;
+}
+
+a:hover {
+  color: #047f74;
+}
