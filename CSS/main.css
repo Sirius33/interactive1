@@ -9,13 +9,14 @@
 /* begin styles */
 
 body {
-  color: #2d1e16;
+  color: #412216;
   font-family: Krungthep, sans-serif;
   background-image: url("tree.jpg"),url("light.jpg");
-  background-repeat: no-repeat;no-repeat;
+  background-repeat: no-repeat;
   background-attachment:fixed;
   background-size: cover;
   background-position: right,left top;
+  
   
 }
 img {
@@ -26,7 +27,9 @@ h1 {
   color: #bba58b;
     font-family: Krungthep, sans-serif;
   text-align: left;
-  text-indent: -3em
+  text-indent: -3em;
+  font-size: 45px;
+
 }
 
 a, a:visited {
@@ -37,3 +40,9 @@ a:hover {
   color: #e89446;
 }
 
+.desc{ margin-left: 100px; font-family:Krungthep, sans-serif;
+color: #bfa387;
+padding-top: 0px;
+font-size: 17px;
+margin-top: -80px;
+}
