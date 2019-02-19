@@ -12,7 +12,9 @@ body {
   color: rgb(51, 51, 0); hsl(60, 100%, 10%);
   font-family: Krungthep, sans-serif;
   background: rgb(173, 173, 133); hsl(60, 20%, 60%);
-  
+  background-image: url("tree.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 
