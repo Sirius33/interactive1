@@ -18,7 +18,9 @@ body {
   background-position: right,left top;
   
 }
-
+img {
+  border-radius: 50%;
+}
 
 h1 {
   color: #bba58b;
