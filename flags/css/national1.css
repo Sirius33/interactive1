@@ -1,0 +1,102 @@
+/* reset styles */
+* {
+        margin: 0px; padding: 0px;
+}
+
+/* make the background of the page white */
+body {
+        background: white;
+        color:#fbf000;
+        letter-spacing:3px;
+
+}
+h2 {
+        color:#fbf000;
+        position:fixed;
+        left: 215px;
+        top:250px;
+        letter-spacing:7px;
+         
+}
+h1 {
+    position:fixed;
+        left: 80px;
+        top:15px;
+        letter-spacing:3px;
+}
+
+/* flag canvas */
+#canvas {
+        width: 500px;
+        height: 300px;
+        position: relative;
+        background: #000080;
+        
+}
+
+/* shapes */
+#filbert-bottom {
+      width: 120px;
+      height: 130px;
+      background: #fbf000;
+      border-radius: 120px / 130px;
+      position:absolute;
+      left: 190px;
+      top:110px;
+}
+.rotate-1 {
+        transform: rotate(0deg);
+    }
+ #filbert-top1 {
+      border-bottom: 50px solid #fbf000;
+      border-left: 10px solid transparent;
+      border-right: 10px solid transparent;
+      height: 0;
+      width: 50px;
+      position:absolute;
+      left: 193px;
+      top:103px;
+    }
+#filbert-top2 {
+      border-bottom: 50px solid #fbf000;
+      border-left: 10px solid transparent;
+      border-right: 10px solid transparent;
+      height: 0;
+      width: 50px;
+      position:absolute;
+      left: 237px;
+      top:103px;
+    }
+#bird1 {
+      width: 0;
+      height: 0;
+      border-left: 25px solid transparent;
+      border-right: 25px solid transparent;
+      border-bottom: 50px solid #fbf000;
+      position:absolute;
+      left: 237px;
+      top:103px;
+      
+    }
+#bird2 {
+      width: 0;
+      height: 0;
+      border-left: 25px solid transparent;
+      border-right: 25px solid transparent;
+      border-bottom: 50px solid #fbf000;
+      position:absolute;
+      left: 237px;
+      top:103px;
+      
+    }
+#bird3 {
+      width: 0;
+      height: 0;
+      border-left: 25px solid transparent;
+      border-right: 25px solid transparent;
+      border-bottom: 50px solid #fbf000;
+      position:absolute;
+      left: 237px;
+      top:103px;
+      
+    }
