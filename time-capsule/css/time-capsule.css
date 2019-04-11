@@ -1,0 +1,359 @@
+* {
+    margin: 10px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+body{
+	background: black;
+    color: black;
+    background-image: url("../images/back1.gif");
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  background-size: cover;
+  background-position: center;
+	font-size: 13px;
+  cursor: url("../images/1m.png"), auto;
+
+}
+
+.hided1 {
+    display: none;
+    margin-top: 2px;
+    font-size: 12px;
+    padding: 6px;
+}
+.hided2 {
+    display: none;
+    margin-top: 2px;
+    font-size: 12px;
+    padding: 6px;
+}
+.hided3 {
+    display: none;
+    margin-top: 2px;
+    font-size: 12px;
+    padding: 6px;
+}
+.hided4 {
+    display: none;
+    margin-top: 2px;
+    font-size: 12px;
+    padding: 6px;
+}
+.hided5 {
+    display: none;
+    margin-top: 2px;
+    font-size: 12px;
+    padding: 6px;
+}
+.hided6 {
+    display: none;
+    margin-top: 2px;
+    font-size: 12px;
+    padding: 6px;
+}
+.hided7 {
+    display: none;
+    margin-top: 2px;
+    font-size: 12px;
+    padding: 6px;
+}
+.hided8 {
+    display: none;
+    margin-top: 2px;
+    font-size: 12px;
+    padding: 6px;
+}
+.hided9 {
+    display: none;
+    margin-top: 2px;
+    font-size: 12px;
+    padding: 6px;
+}
+.hided10 {
+    display: none;
+    margin-top: 2px;
+    font-size: 12px;
+    padding: 6px;
+}
+.hided11 {
+    display: none;
+    margin-top: 2px;
+    font-size: 12px;
+    padding: 6px;
+}
+.hided12 {
+    display: none;
+    margin-top: 2px;
+    font-size: 12px;
+    padding: 6px;
+}
+.hided13 {
+    display: none;
+    margin-top: 2px;
+    font-size: 12px;
+    padding: 6px;
+}
+.hided14 {
+    display: none;
+    margin-top: 2px;
+    font-size: 12px;
+    padding: 6px;
+}
+.hided15 {
+    display: none;
+    margin-top: 2px;
+    font-size: 12px;
+    padding: 6px;
+}
+.hided16 {
+    display: none;
+    margin-top: 2px;
+    font-size: 12px;
+    padding: 6px;
+}
+.hided17 {
+    display: none;
+    margin-top: 2px;
+    font-size: 12px;
+    padding: 6px;
+}
+
+#desktop{
+    color: white;
+    font-family: Krungthep, sans-serif;
+  text-align: left;
+  
+  
+    
+ }
+
+
+
+  .ascii-item-1 {
+    position:absolute;
+    left:30px;
+    top:-20px;
+    text-align: center;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Krungthep', sans-serif;
+    font-size: 1px;
+    line-height: 0.50px;
+    transform: scale(0.5);
+  }
+.ascii-item-2 {
+    position:absolute;
+    left:-50px;
+    top:160px;
+    text-align: center;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Krungthep', sans-serif;
+    font-size: 1px;
+    transform: scale(0.5)
+  }
+   .ascii-item-3 {
+    position:absolute;
+    left:-1px;
+    top:320px;
+    text-align: center;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Krungthep', sans-serif;
+    font-size: 1px;
+    transform: scale(0.6)
+  } 
+  .ascii-item-4 {
+    position:absolute;
+    left:-80px;
+    top:465px;
+    text-align: center;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Krungthep', sans-serif;
+    font-size: 1px;
+    transform: scale(0.7)
+  }
+  .ascii-item-5 {
+    position:absolute;
+    left:90px;
+    top:795px;
+    text-align: center;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Krungthep', sans-serif;
+    font-size: 1px;
+    transform: scale(1.5)
+  }
+  .ascii-item-6 {
+    position:absolute;
+    left:220px;
+    top:980px;
+    text-align: center;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Krungthep', sans-serif;
+    font-size: 1px;
+    transform: scale(1.3)
+  }
+  .ascii-item-7 {
+    position:absolute;
+    left:-110px;
+    top:1100px;
+    text-align: center;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Krungthep', sans-serif;
+    font-size: 1px;
+    transform: scale(1)
+  }
+  .ascii-item-8 {
+    position:absolute;
+    left:-60px;
+    top:1030px;
+    text-align: center;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Krungthep', sans-serif;
+    font-size: 1px;
+    transform: scale(0.4)
+  }
+  .ascii-item-9 {
+    position:absolute;
+    left:170px;
+    top:1360px;
+    text-align: center;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Krungthep', sans-serif;
+    font-size: 1px;
+    transform: scale(0.5)
+  }
+  .ascii-item-10 {
+    position:absolute;
+    left:-100px;
+    top:820px;
+    text-align: center;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Krungthep', sans-serif;
+    font-size: 1px;
+    transform: scale(1)
+  }
+  .ascii-item-11 {
+    position:absolute;
+    left:170px;
+    top:1500px;
+    text-align: center;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Krungthep', sans-serif;
+    font-size: 1px;
+    transform: scale(0.4)
+  }
+  .ascii-item-12 {
+    position:absolute;
+    left:-90px;
+    top:1250px;
+    text-align: center;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Krungthep', sans-serif;
+    font-size: 1px;
+    transform: scale(0.4)
+  }
+  .ascii-item-13 {
+    position:absolute;
+    left:100px;
+    top:820px;
+    text-align: center;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Krungthep', sans-serif;
+    font-size: 1px;
+    transform: scale(0.4)
+  }
+  .ascii-item-14 {
+    position:absolute;
+    left:-100px;
+    top:1550px;
+    text-align: center;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Krungthep', sans-serif;
+    font-size: 1px;
+    transform: scale(0.4)
+  }
+  .ascii-item-15 {
+    position:absolute;
+    left:120px;
+    top:1650px;
+    text-align: center;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Krungthep', sans-serif;
+    font-size: 1px;
+    transform: scale(0.3)
+  }
+  .ascii-item-16 {
+    position:absolute;
+    left:-80px;
+    top:1740px;
+    text-align: center;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Krungthep', sans-serif;
+    font-size: 1px;
+    transform: scale(0.2)
+  }
+  .ascii-item-17 {
+    position:absolute;
+    left:0px;
+    top:1920px;
+    text-align: center;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Krungthep', sans-serif;
+    font-size: 1px;
+    transform: scale(0.2);
+    
+
+  }
+ 
+
+
+a, a:visited {
+  color: white;
+}
+
+a:hover {
+  color: #80a4dd;
+
+}
+
+#ascii {
+    pointer-events: none;
+}
+
+
+ 

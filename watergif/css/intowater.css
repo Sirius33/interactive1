@@ -1,0 +1,105 @@
+/* reset styles */
+
+* {
+  margin: 40px;
+  padding: 0px;
+}
+
+/* begin styles */
+body {
+  font-family: Arial, serif;
+  display: flex;
+
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+/*.element {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+   &:after {
+    animation: face-change 3s linear infinite alternate;
+    display: block;
+    content: "~(´ v `)~";
+    font-size: 80px;
+  }
+}*/
+
+.facechange{
+	/*animation: ascii-change 7s linear infinite alternate;*/
+	position: absolute;
+	left: 550px;
+	height: 200px;
+	width: 600px;
+	content: "~(´ v `)~";
+	font-size: 70px;
+	
+}
+
+.facechange:after {
+  content:"";
+  animation: ascii-change 5.5s linear infinite;
+}
+
+img{
+	margin: 0;
+}
+ body .redwater{
+ 	display: block;
+ }
+
+
+/*body.text {
+  background: black;
+  background-size: 100% 100%;
+  animation: rainbow 10s ease infinite;
+}
+
+@keyframes rainbow { 
+  0%{background-position:0% 0%}
+  50%{background-position:50% 50%}
+  100%{background-position:100% 0%}
+}*/
+
+.wave{
+	z-index: -99999;
+	width:100vw;
+	height:100vh;
+	margin: 0;
+}
+
+@keyframes ascii-change {
+  0% {content: "(• _ •)╭∏╮";
+       color: black;}
+  /*10% {content: "~(´ v `)~";}*/
+  15% {content: "~(´ v `)~";
+color: #009933;}
+  30% {content: "(.   .)";
+color: #ffff00;}
+  45% {content: "(˙ ∆ ˚)";
+color: #ff3300;}
+  60% {content: "(` Д ´)/";
+color: #801a00;}
+  75% {content: "o(π   π)o";
+color: white;}
+  90% {content: "(Ò ^ Ó)";
+color: #666699}
+  100% {content: "(• _ •)╭∏╮";
+color: black;}
+}
+
+.wave{
+	background-image: url("images/watergif.gif");
+}
+
+.show{
+	opacity: 0;
+}
+
+.bg{
+	background-image: url("images/redwater.jpg");
+}

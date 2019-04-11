@@ -1,0 +1,24 @@
+body{
+	background: grey;
+	font-size: 4;
+}
+
+.grid-item {
+  background-color: lightblue;
+  border: 1px solid black;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+    grid-auto-rows: 100px;
+    grid-gap: 20px 40px;
+}
+
+#item-1 {
+  background: pink;
+  grid-column-start: 2;
+  grid-column-end: 4;
+  grid-row-start: 2;
+  grid-row-end: 4; 
+}
