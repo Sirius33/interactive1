@@ -1,0 +1,67 @@
+/* reset styles */
+* {
+        margin: 0px; padding: 0px;
+}
+
+/* make the background of the page white */
+body {
+        background: white;
+        color:#060606;
+        letter-spacing:3px;
+
+}
+#canvas {
+        width: 800px;
+        height: 800px;
+        position: relative;
+        background: #006b80a8;
+        
+}
+#boldcurveleft  {
+  width: 120px;
+  height: 180px;
+  border-radius: 100% 100%;
+  box-shadow: -40px 0px 0px -18px #070707;
+  position:absolute;
+  left:210px;
+  top: 290px;
+  }
+  #test1 {
+      display: block;
+      width: 126px;
+      height: 180px;
+      background-color: #15aa09;
+      border-radius: 600% 0% 600% 0% / 660% 0% 660% 0%;
+    }
+ #test2 {
+      width: 180px;
+      height: 360px;
+      border-radius: 100% 100%;
+      box-shadow: -40px -0px 0px -5px #070707;
+      position:absolute;
+      left:200px;
+     
+      
+
+    }
+  #test3  {
+      width: 180px;
+      height: 325px;
+      border-radius: 100% 100%;
+      box-shadow: 40px -0px 0px -5px #080808;
+      position:absolute;
+      left:240px;
+      top:215px;
+      
+      
+    }
+   
+.rotate-1 {
+        transform: rotate(90deg);     
+} 
+.rotate-2 {
+        transform: rotate(30deg);     
+} 
+.rotate-3 {
+        transform: rotate(-25deg) scale(0.95)    
+} 

@@ -1,0 +1,19 @@
+/* reset styles */
+* {
+        margin: 0px; padding: 0px;
+}
+
+/* make the background of the page white */
+body {
+        background: white;
+        color:#fbf000;
+        letter-spacing:3px;
+
+}
+#canvas {
+        width: 500px;
+        height: 300px;
+        position: relative;
+        background: #000080;
+        
+}
