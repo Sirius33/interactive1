@@ -1,6 +1,6 @@
 
     $('document').ready(function(){
-      $(window).keypress(function(){
+      $(window).click(function(){
         $('body').toggleClass('colorful');  
       });
     });
